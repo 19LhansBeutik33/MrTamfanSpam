@@ -10,7 +10,7 @@ $cd MrTamfanSpam
 $ls
 $chmod +x *
 $ls
-$sh SpamMrTamfan.sh
+$sh MrTamfanSpam.sh
 
 #Peringatan Hargailah Karya Orang Lain Mau Itu Record / Asli
 #Karena Karya Yang Dihasilkan Tidak Dihargai Itu Sakit Guys
